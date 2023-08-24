@@ -15,7 +15,7 @@ void draw(){
   ellipse(200, 250, 175, 250); // body
   ellipse(200, 100, 200, 150); // head
   
-  fill(255,255,0);
+  fill(0, 0 , 0);
   ellipse(160, 90, 20, 20); // left eye
   ellipse(240, 90, 20, 20); // right eye
   
