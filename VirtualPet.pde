@@ -27,7 +27,7 @@ void draw(){
   fill(240, 240, 240);
   arc(141, 150, 200, 200, 0, PI/4); // neck
   
-  textSize(24);
+  textSize(30);
   fill(0, 0, 0);
-  text("ω", 200 , 125);
+  text("ω", 190 , 130);
 }
